@@ -3,7 +3,7 @@
 #### It is good for beginners
 <br/>
 
-> What I have learned through this?
+> ### What I have learned through this?
 
 + How to start with tailwind css
 + How to give styling through this 
